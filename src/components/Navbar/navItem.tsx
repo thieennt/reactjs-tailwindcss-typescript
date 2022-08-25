@@ -147,58 +147,58 @@ const NavItems = () => {
                 <ListContainer menu>
                     <div className="group">
                         <NavItem menu>
-                            <a href="#">Website</a>
+                            <a href="#" className="no-underline">Website</a>
                             <span>
                                 <FaAngleDown />
                             </span>
                         </NavItem>
                         <MenuChild menu>
-                            <MenuItem menu><a href="#">Sub Menu</a></MenuItem>
-                            <MenuItem menu><a href="#">Sub Menu</a></MenuItem>
-                            <MenuItem menu><a href="#">Sub Menu</a></MenuItem>
-                            <MenuItem menu><a href="#">Sub Menu</a></MenuItem>
+                            <MenuItem menu><a href="#" className="no-underline">Sub Menu</a></MenuItem>
+                            <MenuItem menu><a href="#" className="no-underline">Sub Menu</a></MenuItem>
+                            <MenuItem menu><a href="#" className="no-underline">Sub Menu</a></MenuItem>
+                            <MenuItem menu><a href="#" className="no-underline">Sub Menu</a></MenuItem>
                         </MenuChild>
                     </div>
                     <div className="group">
                         <NavItem menu>
-                            <a href="#">Sell</a>
+                            <a href="#" className="no-underline">Sell</a>
                             <span>
                                 <FaAngleDown />
                             </span>
                         </NavItem>
                         <MenuChild menu>
-                            <MenuItem menu><a href="#">Sub Menu</a></MenuItem>
-                            <MenuItem menu><a href="#">Sub Menu</a></MenuItem>
-                            <MenuItem menu><a href="#">Sub Menu</a></MenuItem>
-                            <MenuItem menu><a href="#">Sub Menu</a></MenuItem>
+                            <MenuItem menu><a href="#" className="no-underline">Sub Menu</a></MenuItem>
+                            <MenuItem menu><a href="#" className="no-underline">Sub Menu</a></MenuItem>
+                            <MenuItem menu><a href="#" className="no-underline">Sub Menu</a></MenuItem>
+                            <MenuItem menu><a href="#" className="no-underline">Sub Menu</a></MenuItem>
                         </MenuChild>
                     </div>
                     <div className="group">
                         <NavItem menu>
-                            <a href="#">Marketing</a>
+                            <a href="#" className="no-underline">Marketing</a>
                             <span>
                                 <FaAngleDown />
                             </span>
                         </NavItem>
                         <MenuChild menu>
-                            <MenuItem menu><a href="#">Sub Menu</a></MenuItem>
-                            <MenuItem menu><a href="#">Sub Menu</a></MenuItem>
-                            <MenuItem menu><a href="#">Sub Menu</a></MenuItem>
-                            <MenuItem menu><a href="#">Sub Menu</a></MenuItem>
+                            <MenuItem menu><a href="#" className="no-underline">Sub Menu</a></MenuItem>
+                            <MenuItem menu><a href="#" className="no-underline">Sub Menu</a></MenuItem>
+                            <MenuItem menu><a href="#" className="no-underline">Sub Menu</a></MenuItem>
+                            <MenuItem menu><a href="#" className="no-underline">Sub Menu</a></MenuItem>
                         </MenuChild>
                     </div>
                     <div className="group">
                         <NavItem menu>
-                            <a href="#">Manager</a>
+                            <a href="#" className="no-underline">Manager</a>
                             <span>
                                 <FaAngleDown />
                             </span>
                         </NavItem>
                         <MenuChild menu>
-                            <MenuItem menu><a href="#">Sub Menu</a></MenuItem>
-                            <MenuItem menu><a href="#">Sub Menu</a></MenuItem>
-                            <MenuItem menu><a href="#">Sub Menu</a></MenuItem>
-                            <MenuItem menu><a href="#">Sub Menu</a></MenuItem>
+                            <MenuItem menu><a href="#" className="no-underline">Sub Menu</a></MenuItem>
+                            <MenuItem menu><a href="#" className="no-underline">Sub Menu</a></MenuItem>
+                            <MenuItem menu><a href="#" className="no-underline">Sub Menu</a></MenuItem>
+                            <MenuItem menu><a href="#" className="no-underline">Sub Menu</a></MenuItem>
                         </MenuChild>
                     </div>
                 </ListContainer>
@@ -212,58 +212,58 @@ const NavItems = () => {
             <ListContainer>
                 <div className="group">
                     <NavItem >
-                        <a href="#">Website</a>
+                        <a href="#" className="no-underline">Website</a>
                         <span>
                             <FaAngleDown />
                         </span>
                     </NavItem>
                     <MenuChild>
-                        <MenuItem><a href="#">Sub Menu</a></MenuItem>
-                        <MenuItem><a href="#">Sub Menu</a></MenuItem>
-                        <MenuItem><a href="#">Sub Menu</a></MenuItem>
-                        <MenuItem><a href="#">Sub Menu</a></MenuItem>
+                        <MenuItem><a href="#" className="no-underline">Sub Menu</a></MenuItem>
+                        <MenuItem><a href="#" className="no-underline">Sub Menu</a></MenuItem>
+                        <MenuItem><a href="#" className="no-underline">Sub Menu</a></MenuItem>
+                        <MenuItem><a href="#" className="no-underline">Sub Menu</a></MenuItem>
                     </MenuChild>
                 </div>
                 <div className="group">
                     <NavItem >
-                        <a href="#">Sell</a>
+                        <a href="#" className="no-underline">Sell</a>
                         <span>
                             <FaAngleDown />
                         </span>
                     </NavItem>
                     <MenuChild>
-                        <MenuItem><a href="#">Sub Menu</a></MenuItem>
-                        <MenuItem><a href="#">Sub Menu</a></MenuItem>
-                        <MenuItem><a href="#">Sub Menu</a></MenuItem>
-                        <MenuItem><a href="#">Sub Menu</a></MenuItem>
+                        <MenuItem><a href="#" className="no-underline">Sub Menu</a></MenuItem>
+                        <MenuItem><a href="#" className="no-underline">Sub Menu</a></MenuItem>
+                        <MenuItem><a href="#" className="no-underline">Sub Menu</a></MenuItem>
+                        <MenuItem><a href="#" className="no-underline">Sub Menu</a></MenuItem>
                     </MenuChild>
                 </div>
                 <div className="group">
                     <NavItem >
-                        <a href="#">Marketing</a>
+                        <a href="#" className="no-underline">Marketing</a>
                         <span>
                             <FaAngleDown />
                         </span>
                     </NavItem>
                     <MenuChild>
-                        <MenuItem><a href="#">Sub Menu</a></MenuItem>
-                        <MenuItem><a href="#">Sub Menu</a></MenuItem>
-                        <MenuItem><a href="#">Sub Menu</a></MenuItem>
-                        <MenuItem><a href="#">Sub Menu</a></MenuItem>
+                        <MenuItem><a href="#" className="no-underline">Sub Menu</a></MenuItem>
+                        <MenuItem><a href="#" className="no-underline">Sub Menu</a></MenuItem>
+                        <MenuItem><a href="#" className="no-underline">Sub Menu</a></MenuItem>
+                        <MenuItem><a href="#" className="no-underline">Sub Menu</a></MenuItem>
                     </MenuChild>
                 </div>
                 <div className="group">
                     <NavItem >
-                        <a href="#">Manager</a>
+                        <a href="#" className="no-underline">Manager</a>
                         <span>
                             <FaAngleDown />
                         </span>
                     </NavItem>
                     <MenuChild>
-                        <MenuItem><a href="#">Sub Menu</a></MenuItem>
-                        <MenuItem><a href="#">Sub Menu</a></MenuItem>
-                        <MenuItem><a href="#">Sub Menu</a></MenuItem>
-                        <MenuItem><a href="#">Sub Menu</a></MenuItem>
+                        <MenuItem><a href="#" className="no-underline">Sub Menu</a></MenuItem>
+                        <MenuItem><a href="#" className="no-underline">Sub Menu</a></MenuItem>
+                        <MenuItem><a href="#" className="no-underline">Sub Menu</a></MenuItem>
+                        <MenuItem><a href="#" className="no-underline">Sub Menu</a></MenuItem>
                     </MenuChild>
                 </div>
 

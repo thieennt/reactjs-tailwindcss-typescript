@@ -29,6 +29,8 @@ const InputElement = styled.input`
         rounded-[8px]
         text-sm
         mt-2.5
+        outline-none
+        border-none
 
         focus:outline-none
     `}

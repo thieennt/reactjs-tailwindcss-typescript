@@ -65,7 +65,7 @@ const InputGroup = styled.div`
     ${tw`
         grid
         grid-cols-1
-        gap-y-5
+        gap-5
 
         md:grid-cols-2
         md:gap-x-5

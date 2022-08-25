@@ -71,6 +71,8 @@ const SearchInput = styled.div`
         bg-background
         px-5
         py-2.5
+        outline-none
+        border-none
 
         md:w-5/12
         lg:w-5/12
@@ -132,7 +134,7 @@ const SearchSection = () => {
                 <img src={ImgSearch} alt="Search" />
                 <SearchBox>
                     <SearchInput>
-                        <input type="text" placeholder="Look for interface..." />
+                        <input type="text" placeholder="Look for interface..." className="outline-none border-none"/>
                         <Icon><FaSearch /></Icon>
                     </SearchInput>
                     <IntroSection>
